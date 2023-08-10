@@ -11,5 +11,5 @@
     }
     else
     {
-        echo 'Le nombre '.$nombre.' n\'est pas multiple de 3.';
+        echo 'Le nombre '.$nombre.' n\'est pas un multiple de 3.';
     }
